@@ -1,4 +1,4 @@
-// WAP TO FIND FACTORIAL OF A NUMBER
+// WAP TO FIND FACTORIAL OF A NUMBER.
 #include<stdio.h>
 int main()
 { int fact =1,n,i ;

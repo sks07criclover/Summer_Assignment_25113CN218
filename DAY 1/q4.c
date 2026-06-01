@@ -1,4 +1,4 @@
-//WAP TO COUNT DIGIT OF A NUMBER
+//WAP TO COUNT DIGIT OF A NUMBER.
 #include<stdio.h>
 int main()
 {
