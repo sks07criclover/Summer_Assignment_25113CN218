@@ -1,4 +1,4 @@
-//print character triangle
+//print character triangle.
 #include<stdio.h>
 
 int main(){

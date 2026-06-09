@@ -1,4 +1,4 @@
-//WAP TO PRINT REPEATED PATTERN
+//WAP TO PRINT REPEATED PATTERN.
 #include<stdio.h>
 
 int main(){
